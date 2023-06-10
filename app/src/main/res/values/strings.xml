@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">UptechApp</string>
+    <string name="id_logging">IdLogged</string>
+    <string name="default_web_client_id_google" translatable="false">573000313275-636b6r5sn8mob95rkder9r6tsoifdo2o.apps.googleusercontent.com</string>
+    <string name="progressBarLogging">Logging</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="news">News</string>
+    <string name="verify_hint">To verify your personality you need to:</string>
+    <string name="login_inf">* By clicking on the button, you agree to provide Your information is sent to the UpTech application for processing.</string>
+    <string name="time">Time</string>
+    <string name="info">Info</string>
+    <string name="name">Name</string>
+    <string name="title"><b>Title</b></string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="create">Создание записи</string>
+    <string name="create_lable">Название</string>
+    <string name="create_create">Создание записи</string>
+
+</resources>
